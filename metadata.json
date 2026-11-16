@@ -1,0 +1,6 @@
+{
+  "name": "FrameDOM",
+  "description": "Bidirectional HTML to Video and Video to HTML converter studio with deterministic frame rendering, WebCodecs MP4/WebM export, and standalone HTML5 output modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
